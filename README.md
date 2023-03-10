@@ -55,7 +55,7 @@ https://github.com/ahmedshaik982/Play_Store_App_Review_Analysis/blob/main/Play%2
 
 # Some Visualizations
 
-https://github.com/ahmedshaik982/Play_Store_App_Review_Analysis/blob/main/psa_png.png
+![image](https://github.com/ahmedshaik982/Play_Store_App_Review_Analysis/blob/main/psa_png.png)
 
 
 
